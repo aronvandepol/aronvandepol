@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aronvandepol
+- 👀 I’m interested in Digital humanities and Korean studies
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me vndepol@gmail.conm
